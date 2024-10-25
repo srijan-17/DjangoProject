@@ -127,4 +127,4 @@ EMAIL_HOST = 'smtp.gmail.com'  # Replace with your SMTP server
 EMAIL_PORT = 587  # or 465 for SSL
 EMAIL_USE_TLS = True  # Set to False if using SSL
 EMAIL_HOST_USER = 'srijan17112001@gmail.com'  # Your email
-EMAIL_HOST_PASSWORD = 'Alpha$1234'  # Your email password
+EMAIL_HOST_PASSWORD = ''  # Your email password
