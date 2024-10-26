@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+*.py[cod]
+
+# Ignore virtual environment folder
+.venv/
+
+# Ignore database files
+*.sqlite3
+
+
+
